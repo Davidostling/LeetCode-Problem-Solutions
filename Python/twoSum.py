@@ -8,4 +8,4 @@ class Solution:
                         trackingArray.append([i, j])
         return (trackingArray[0])
 
-#Problem description https://leetcode.com/problems/two-sum/description/
+#Problem description: https://leetcode.com/problems/two-sum/description/
