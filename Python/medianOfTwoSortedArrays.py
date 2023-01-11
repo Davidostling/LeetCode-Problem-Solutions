@@ -12,3 +12,5 @@ class Solution(object):
             return mergedArray[len(mergedArray)/2]
         if(len(mergedArray)%2 == 0): 
             return (float(mergedArray[len(mergedArray)/2-1]+mergedArray[len(mergedArray)/2])/2)
+
+#Problem description: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
