@@ -15,3 +15,4 @@ class Solution:
         
         return pascalArray
 
+#Problem description: https://leetcode.com/problems/pascals-triangle/description/
