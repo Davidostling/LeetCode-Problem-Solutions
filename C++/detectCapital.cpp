@@ -7,3 +7,4 @@ public:
         return countUpper == 0 || countUpper == word.length() || (countUpper == 1 && ::isupper(word[0]));
     }
 };
+// Problem description: https://leetcode.com/problems/detect-capital/description/
