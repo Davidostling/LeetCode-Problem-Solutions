@@ -24,3 +24,5 @@ class Solution {
         return true;
     }
 }
+
+// Problem description: https://leetcode.com/problems/word-pattern/description/
